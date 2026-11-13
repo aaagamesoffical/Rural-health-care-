@@ -1,0 +1,6 @@
+{
+  "name": "HealthSync CarePulse",
+  "description": "Enterprise clinical appointment scheduling, patient orchestration, teleconsultation suite, and intelligent multi-channel notification engine compliant with HL7 FHIR R4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
